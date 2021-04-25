@@ -2,7 +2,6 @@ import requests
 import os
 import json
 url1 = "http://apiv2.angogotech.net/CutoutTemplate/category/allCutoutTemplateCategory"
-
 payload={}
 headers = {
     'traceid': 'a4e33b09-e878-4801-843d-c699fa1bc32f',
